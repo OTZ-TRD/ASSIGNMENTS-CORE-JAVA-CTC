@@ -1,6 +1,6 @@
 # ASSIGNMENTS-CORE-JAVA-CTC
-                                                  ASSIGNMENTS ON ALGORITHM AND FLOWCHART
-                                                  -----------------------------------------
+                                       ASSIGNMENTS ON ALGORITHM AND FLOWCHART
+                                      -----------------------------------------
 1. Write Algorithm and Flowchart to find Factorial of a Number .
 
  2. Write Algorithm and Flowchart to check a  number is prime or not.
